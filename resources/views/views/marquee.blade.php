@@ -1,0 +1,1 @@
+<marquee behavior="" direction="">{{ $mar_content }}</marquee>
